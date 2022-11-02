@@ -1,0 +1,9 @@
+0 1
+#q0 q1 q0
+q1 q2 q0
+q2 q3 q6
+*q3 q3 q4
+*q4 q1 q0
+q5 q2 q0
+q6 q5 q6
+q7 q6 q4
